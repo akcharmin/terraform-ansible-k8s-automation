@@ -3,7 +3,7 @@ variable "aws_region" {
 }
 
 variable "key_name" {
-  default = "classkey"
+  default = "KEY23 - docker swarm"
 }
 variable "vpc_cidr" {
   default = "172.0.0.0/24"
